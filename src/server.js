@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const pages = require("./pages.js")
 
-//Teste
+//Modificado
 const server = express();
 
 server

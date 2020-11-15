@@ -1,0 +1,47 @@
+/* Animações!! */
+
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes right {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animation-up {
+  animation-name: up;
+  animation-duration: 500ms;
+  animation-fill-mode: backwards;
+}
+
+.animation-right {
+  animation-name: right;
+  animation-duration: 500ms;
+}
+
+.animation-appear {
+  animation-name: appear;
+  animation-duration: 1s;
+  animation-fill-mode: backwards;
+}
