@@ -4,13 +4,10 @@
 
 <div align="center">
     <img src = "public/images/logo-icon.png" />
-</div>
 
 <br>
-
-
-<center>Project developed at "The next level week #3"</center>
-
+Project developed at <i><b>"The next level week #3"</b></i>
+</div>
 
 
 ## This project was developed with:
