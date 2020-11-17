@@ -4,9 +4,9 @@
 
 <div align="center">
     <img src = "public/images/logo-icon.png" />
-
 <br>
-Project developed at <i><b>"The next level week #3"</b></i>
+<br>
+<p>Project developed at <i><b>"The next level week #3"</b></i></p>
 </div>
 
 
