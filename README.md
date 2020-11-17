@@ -28,7 +28,7 @@
 
 - [x] SQLite
 
-# 🚀 Project Rockeatseat
+## 🚀 Project Rockeatseat
 
 - [GitHub NLW #3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
 
