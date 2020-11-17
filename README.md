@@ -23,6 +23,10 @@
 
 - [x] SQLite
 
+# Project Rockeatseat
+
+![GitHubNLW3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
+
 # ALL CREDITS TO _ROCKETSEAT_
 
 # TODOS OS CRÉDITOS A _ROCKETSEAT_
