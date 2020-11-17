@@ -9,7 +9,7 @@
 <br>
 
 
-<center>Project developed at ___"The next level week #3"___</center>
+<center>Project developed at "The next level week #3"</center>
 
 
 
