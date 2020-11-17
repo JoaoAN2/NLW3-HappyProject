@@ -1,4 +1,4 @@
-# NLW3-HappyProject
+# 🔋🚀 NLW3-HappyProject
 
 <br>
 
@@ -11,7 +11,9 @@
 </div>
 
 
-## This project was developed with:
+## 💻 This project was developed with:
+
+
 
 - [x] HTML5 / Handlebars
 
@@ -23,10 +25,10 @@
 
 - [x] SQLite
 
-# Project Rockeatseat
+# 🚀 Project Rockeatseat
 
 - [GitHub NLW #3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
 
-# ALL CREDITS TO _ROCKETSEAT_
+# 🎬 ALL CREDITS TO _ROCKETSEAT_
 
-# TODOS OS CRÉDITOS A _ROCKETSEAT_
+# 🎬 TODOS OS CRÉDITOS A _ROCKETSEAT_
