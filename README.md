@@ -3,7 +3,8 @@
 <br>
 
 <div align="center">
-    <img src = "public/images/logo-icon.png" />
+    <img 
+    src = "public/images/logo-icon.png"/>
 <br>
 <br>
 <p>Project developed at <i><b>"The next level week #3"</b></i></p>
@@ -12,7 +13,7 @@
 
 ## This project was developed with:
 
-- [x] HTML 5
+- [x] HTML5 / Handlebars
 
 - [x] CSS 3
 
@@ -24,4 +25,4 @@
 
 # ALL CREDITS TO _ROCKETSEAT_
 
-# TODOS OS CRÉDITOS A ROCKETSEAT
+# TODOS OS CRÉDITOS A _ROCKETSEAT_
