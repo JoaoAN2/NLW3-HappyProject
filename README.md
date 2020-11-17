@@ -25,7 +25,7 @@
 
 # Project Rockeatseat
 
-![GitHub NLW #3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
+- [GitHub NLW #3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
 
 # ALL CREDITS TO _ROCKETSEAT_
 
