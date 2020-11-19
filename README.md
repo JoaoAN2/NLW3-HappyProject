@@ -30,6 +30,10 @@
 
 - [GitHub NLW #3](https://github.com/guilhermecapitao/nlw3-discovery-happy)
 
+## 📝 Mit license
+
+More details: [License](/LICENSE)
+
 # 🎬 [ALL CREDITS TO _ROCKETSEAT_](https://rocketseat.com.br)
 
 # 🎬 [TODOS OS CRÉDITOS A _ROCKETSEAT_](https://rocketseat.com.br)
