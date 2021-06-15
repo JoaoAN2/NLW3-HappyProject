@@ -7,7 +7,7 @@
 <div align="center">
     <h1>
     <img 
-    src = "public/images/logo-icon.png" style = "height: 50px"/>  <strong style = "font-size: 150px"> HAPPY</Strong> 
+    src = "public/images/logo-icon.png" style = "height: 20px"/>  <strong> HAPPY</Strong> 
    <img src = ".github/readmePicture.png">
 <br>
 <br>
