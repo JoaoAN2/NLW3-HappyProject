@@ -40,6 +40,9 @@ Develop a project with front-end, back-end and database in one week.
 
 More details: [License](/LICENSE)
 
-# 🎬 [ALL CREDITS TO _ROCKETSEAT_](https://rocketseat.com.br)
+## 🎬 Credits
 
-# 🎬 [TODOS OS CRÉDITOS A _ROCKETSEAT_](https://rocketseat.com.br)
+["Next Level Week"](https://nextlevelweek.com) event promoted by [@Rocketseat](https://github.com/Rocketseat).
+
+---
+<div align = "center"> 💻 Developed by João Augusto do Nascimento 🚀</div>
